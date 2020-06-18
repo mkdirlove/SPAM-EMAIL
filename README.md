@@ -22,9 +22,12 @@ Spam Outlook
 
 `$ python spam-email.py`
 
-# PROOF
+# TOOL PREVIEW
 
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/1.png)
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/2.png)
+
+# PROOF
+
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/3.png)
 
