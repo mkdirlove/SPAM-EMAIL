@@ -20,7 +20,7 @@ Spam Outlook
 
 `$ cd SPAM-EMAIL`
 
-`$ python spam-email.py
+`$ python spam-email.py`
 #
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/4.gif)
 
