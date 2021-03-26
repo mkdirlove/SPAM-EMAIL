@@ -20,11 +20,11 @@ Spam Outlook
 
 `$ cd SPAM-EMAIL`
 
-`$ python spam-email.py`
+`$ python3 spam-email-v1.py`
 
 or 
 
-`$ python2 spam-email.py`
+`$ python3 spam-email-v2.py`
 
 #
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/Screenshot%20from%202021-03-26%2008-16-01.png)
@@ -33,8 +33,7 @@ or
 
 # TOOL PREVIEW
 
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/1.png)
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/2.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/Screenshot%20from%202021-03-26%2008-16-44.png)
 
 # PROOF
 
