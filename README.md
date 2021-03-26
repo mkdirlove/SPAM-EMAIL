@@ -27,7 +27,7 @@ or
 `$ python2 spam-email.py`
 
 #
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/4.gif)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/SPAM-EMAIL/blob/master/Screenshot%20from%202021-03-26%2008-16-01.png)
 
 `
 
