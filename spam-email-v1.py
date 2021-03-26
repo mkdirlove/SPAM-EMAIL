@@ -29,7 +29,7 @@ def spam():
 
 os.system("clear")
 try:
-	file1 = open("logo.txt", "r")
+	file1 = open("v1.txt", "r")
 	print(" ")
 	print(bcolors.GREEN + file1.read() + bcolors.ENDC)
 	file1.close()
